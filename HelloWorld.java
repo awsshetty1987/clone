@@ -1,5 +1,5 @@
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello world v2.1");
+    System.out.println("Hello world v3.0");
   }
 }
